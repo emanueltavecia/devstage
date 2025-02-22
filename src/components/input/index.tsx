@@ -17,7 +17,7 @@ export function InputRoot({ error = false, ...props }: InputRootProps) {
 export function InputIcon(props: InputIconProps) {
   return (
     <span
-      className="group-data-[error=true]:text-danger text-gray-400 group-focus-within:text-gray-100 group-[&:not(:has(input:placeholder-shown))]:text-gray-100"
+      className="group-data-[error=true]:!text-danger text-gray-400 group-focus-within:text-gray-100 group-[&:not(:has(input:placeholder-shown))]:text-gray-100"
       {...props}
     />
   )
