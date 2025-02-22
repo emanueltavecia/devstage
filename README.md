@@ -1,34 +1,41 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ![DevStage](./src/assets/logo.svg)
 
-## Getting Started
+Project developed on Rocketseat's NLW Connect - React
 
-First, run the development server:
+**DevStage is an indication web software that can be used during online events.**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![DevStage project cover](./.github/screenshot.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📋 Project information
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- NLW Connect - React
 
-## Learn More
+## 🧠 Concepts learned
 
-To learn more about Next.js, take a look at the following resources:
+The development of this project aims to learn the following concepts:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Next.js features
+  - Server components
+  - Fetching data
+  - Image rendering
+  - Good practices
+- Form validations
+- Integrate with an API with Orval
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🔗 Project Links
 
-## Deploy on Vercel
+- 🎨 [**Figma**](https://www.figma.com/community/file/1471119935944492720)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 💻 Technologies
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Next.js
+- React
+- TypeScript
+- TailwindCSS
+- react-hook-form
+- zod
+- orval
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for more details.
