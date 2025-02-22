@@ -7,3 +7,7 @@ export interface InvitePageProps {
     subscriberId: string
   }>
 }
+
+export interface StatsProps {
+  subscriberId: string
+}
